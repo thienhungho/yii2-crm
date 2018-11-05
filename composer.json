@@ -1,0 +1,19 @@
+{
+    "name": "thienhungho/yii2-crm",
+    "description": "Yii2 CRM",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","crm"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "thienhungho",
+            "email": "thienhungho@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.9",
+        "thienhungho/yii2-app-core": "*",
+        "thienhungho/yii2-customer-management": "*"
+    }
+}
